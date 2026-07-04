@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Ishowar Dev Bhandari! 👋
 **Full-Stack Developer | Flutter & Desktop Specialist**
 
 I am a Full-Stack Developer focused on building high-performance mobile and desktop applications. I specialize in designing robust client-side architectures, offline-first systems, and secure backends. 
