@@ -3,10 +3,14 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *" # Runs every 12 hours
-  workflow_dispatch:
+  workflow_dispatch: # Allows manual triggering
   push:
     branches:
     - main
+
+# 👇 ADD THIS SECTION TO FIX PUSH PERMISSIONS
+permissions:
+  contents: write
 
 jobs:
   generate:
